@@ -1,0 +1,6 @@
+input {
+    float:right;
+    margin: 20px;
+    width: 200px;
+    border-style: outset;
+}

@@ -1,0 +1,18 @@
+ul {
+    list-style-type: none;
+    padding: 0;
+    color: white;
+}
+
+.NavBar {
+    float: left;
+    padding: 15px;
+    font-size: large;
+    font-family: sans-serif;
+    background-color:black;
+}
+
+body {
+    background-color: rgb(23, 22, 83);
+}
+
